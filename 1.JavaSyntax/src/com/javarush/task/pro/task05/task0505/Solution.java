@@ -9,6 +9,7 @@ Reverse
 public class Solution {
     public static void main(String[] args) {
         //напишите тут ваш код
+
         int[] array;
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
